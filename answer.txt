@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Business. For example when analyzing customer demographic for a specific online service.
